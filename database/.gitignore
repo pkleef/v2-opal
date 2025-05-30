@@ -1,0 +1,8 @@
+#
+#  Directories and Files to ignore
+#
+backup/
+logs/
+
+*.ini
+virtuoso.*
